@@ -26,3 +26,6 @@ Understand what the estimator is predicting as in what categories it is bad at p
 
 Questions
 * is the frequency all the same of the data? points per secob d
+
+
+DataEngineeering/Featureengineerinng super improtnat 
